@@ -1,0 +1,6 @@
+{
+  "name": "Layers Going Deep",
+  "description": "Solve four quick word mini-games - LetterLock, Anagram, Crossword, and Word Search - to unlock hidden words and sort the 16-word Connections board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
